@@ -1,5 +1,5 @@
 ---
-# `*MrBaşkan*`
+# *`MrBaşkan`*
 ---
-# `*YılmazBOT*`
+# *`YılmazBOT`*
 ---
